@@ -2,7 +2,7 @@
 
 ## Template decision — Use portable repository memory
 
-**Decision:** Keep durable shared context in tracked Markdown files under
+**Decision:** Keep durable unified context in tracked Markdown files under
 `memory/`, with `AGENTS.md` and `CLAUDE.md` as agent entry points.
 
 **Reasoning:** Codex and Claude Code can read the same repository files without
