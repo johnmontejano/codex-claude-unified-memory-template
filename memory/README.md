@@ -1,4 +1,4 @@
-# Shared Project Memory
+# Unified Project Memory
 
 These Markdown files are the durable, provider-neutral handoff between Codex
 and Claude Code.
