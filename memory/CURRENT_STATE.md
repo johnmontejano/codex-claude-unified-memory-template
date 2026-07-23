@@ -4,7 +4,7 @@ Last updated: Not yet initialized
 
 ## Summary
 
-This repository was created from the Codex + Claude Code shared-memory
+This repository was created from the Codex + Claude Code unified-memory
 template. The project-specific state has not yet been initialized.
 
 ## Verified implementation
